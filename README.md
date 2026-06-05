@@ -88,29 +88,21 @@ Supported Protocols:
 TBD
 
 ## Development Roadmap
-Phase 1
-Requirements Definition
+Phase 1: Requirements Definition
 
-Phase 2
-System Architecture
+Phase 2: System Architecture
 
-Phase 3
-Telemetry Simulation
+Phase 3: Telemetry Simulation
 
-Phase 4
-Mapping Interface
+Phase 4: Mapping Interface
 
-Phase 5
-Real-Time Telemetry Integration
+Phase 5: Real-Time Telemetry Integration
 
-Phase 6
-Mission Planning Tools
+Phase 6: Mission Planning Tools
 
-Phase 7
-Health Monitoring Dashboard
+Phase 7: Health Monitoring Dashboard
 
-Phase 8
-Aerospace Mission System Integration
+Phase 8: Aerospace Mission System Integration
 
 ## Testing & Validation
 ### Planned Testing Activities:
