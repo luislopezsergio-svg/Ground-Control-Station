@@ -5,17 +5,13 @@ Mission planning, telemetry visualization, and system monitoring software for au
 
 ### Project Status: Planning
 
-### Engineering Discipline:
-Systems Engineering / Communications
+### Engineering Discipline: Systems Engineering / Communications
 
-### Current Phase:
-Requirements Definition
+### Current Phase: Requirements Definition
 
-### Completion:
-5%
+### Completion: 5%
 
-### Last Updated:
-June 2026
+### Last Updated: June 2026
 
 ## Executive Summary
 The Ground Control Station (GCS) project provides mission planning, telemetry monitoring, system health visualization, and post-mission analysis capabilities for autonomous aerospace systems. The software serves as the primary operator interface for monitoring vehicle status, navigation performance, and mission execution while supporting future integration with embedded mission computing platforms.
