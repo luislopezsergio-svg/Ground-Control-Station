@@ -1,5 +1,7 @@
 # Ground-Control-Station
 
+Mission planning, telemetry visualization, and system monitoring software for autonomous aerospace systems.
+
 Project Status: Planning
 
 Engineering Discipline:
