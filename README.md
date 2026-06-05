@@ -107,15 +107,15 @@ Phase 8: Aerospace Mission System Integration
 ## Testing & Validation
 ### Planned Testing Activities:
 
--Telemetry Packet Verification
+- Telemetry Packet Verification
 
--User Interface Validation
+- User Interface Validation
 
--Data Logging Verification
+- Data Logging Verification
 
--End-to-End Communications Testing
+- End-to-End Communications Testing
 
--Mission Replay Validation
+- Mission Replay Validation
 
 ## Results
 Development currently focused on requirements definition and architecture planning.
