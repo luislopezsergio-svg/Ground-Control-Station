@@ -3,18 +3,18 @@
 Mission planning, telemetry visualization, and system monitoring software for autonomous aerospace systems.
 
 
-Project Status: Planning
+###Project Status: Planning
 
-Engineering Discipline:
+###Engineering Discipline:
 Systems Engineering / Communications
 
-Current Phase:
+###Current Phase:
 Requirements Definition
 
-Completion:
+###Completion:
 5%
 
-Last Updated:
+###Last Updated:
 June 2026
 
 ## Executive Summary
