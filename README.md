@@ -140,8 +140,7 @@ No operational functionality has been implemented at this stage.
 
 Sergio Luis-Lopez
 
-Marine Corps Veteran
-Bachelor of Science in Electrical Engineering
+Marine Corps Veteran / BSEE Student
 
 Technical Interests:
 - Aerospace Systems
